@@ -1,0 +1,2975 @@
+1	abandon	покидать
+2	abandoned	заброшенный
+3	able	способный
+4	able	в состоянии
+5	able (to be able to)	в состоянии (быть в состоянии)
+6	aboard	на борту
+7	aborded	брошенный
+8	abort	прервать
+9	above	над
+10	above	выше
+11	absence	отсутствие
+12	absent	отсутствует
+13	absent	нет на месте
+14	accelerate	ускорять
+15	accept	принимать
+16	acceptable	приемлемый
+17	access	доступ
+18	accessible	доступный
+19	accession	присоединение
+20	accident	авария
+21	accident	несчастный случай
+22	accident ( accidentally)	авария (случайно)
+23	accident ( accidently)	несчастный случай (случайно)
+24	accidentally	случайно
+25	accommodate	разместить
+26	accommodation	размещение
+27	account	учетная запись
+28	accounting	бухгалтерский учет
+29	accumulate	накапливать
+30	accurate	точный
+31	accusation	обвинение
+32	accuse	обвинять
+33	accuse of	обвиняют в
+34	accused	обвиняемый
+35	accused of	обвиняется в
+36	accustom	приучать
+37	accustomed	привыкший
+38	accustomed (be accustomed to it)	привыкнуть (привыкнуть к этому)
+39	accustomed to	привык к
+40	accustomed to doing	привык делать
+41	ache	боль
+42	achieve	достигать
+43	achieve	достичь
+44	achievement	достижение
+45	acidity	кислотность
+46	acquaintance	знакомство
+47	acquainted	знакомый
+48	acquainted of	знаком с
+49	acquainted with	познакомиться с
+50	act	действовать
+51	action	действие
+52	actual	действительный
+53	actually	на самом деле
+54	actually	фактически
+55	actualy	актуально
+56	ad hoc	для этого случая
+57	adapt	адаптироваться
+58	adapt to	адаптироваться к
+59	add	добавлять
+60	added	добавленной
+61	addicted	с зависимостью
+62	addicted to	зависимый от
+63	addicted to (doing something)	пристрастился к (чему-то)
+64	addicted to (something)	пристрастился к (чему-то)
+65	addicted to doing	пристрастился делать
+66	addicten	наркоман
+67	addiction	зависимость
+68	addition	дополнение
+69	addition	прибавление
+70	addition (in addition)	дополнение (вдобавок)
+71	adjective	имя прилагательное
+72	adjust	отрегулировать
+73	adjust	регулировать
+74	admire	восхищаться
+75	admission	вход
+76	admit	признавать
+77	adopt	усыновить
+78	adorable	очаровательны
+79	adorable	Восхитительный
+80	adorably	прелестно
+81	adore	обожать
+82	adult	взрослый
+83	adult	для взрослых
+84	adults	Взрослые
+85	advance	продвигать
+86	advance	продвижение
+87	advanced	передовой
+88	advantage	преимущество
+89	advantage of	преимущество
+90	adventure	приключение
+91	advertise	рекламировать
+92	advertisement	рекламное объявление
+93	advertisements	объявления
+94	advertising	реклама
+95	advice	совет
+96	advise	консультировать
+97	advisor	консультант
+98	affect	оказывать воздействие
+99	afford	предоставлять
+100	afraid	боюсь
+101	afraid of	бояться
+102	afternoon	после полудня
+103	again	очередной раз
+104	again	опять таки
+105	agile	гибкий
+106	agile methodology	гибкая методология
+107	agly	ловко
+108	ago	назад
+109	Agree	Дать согласие
+110	Agree	Согласен
+111	ahead	впереди
+112	aid	помощь
+113	aisle	ряд
+114	alcoholic	алкоголик
+115	alignment	выравнивание
+116	alive	живой
+117	alive	в живых
+118	all it's over	все кончено
+119	allergic	аллергический
+120	allergic to	аллергия на
+121	Allow	Позволять
+122	allow	позволять
+123	allowance	пособие
+124	allowed	допустимый
+125	allowed (to be allowed to)	разрешено (быть разрешенным)
+126	almost	почти
+127	alone	один
+128	alone	в одиночестве
+129	along	вдоль
+130	along	вдоль
+131	alonge	вместе
+132	aloud	вслух
+133	already	уже
+134	alter	изменить
+135	alter	изменять
+136	altered	изменен
+137	alternate	чередовать
+138	alternative	альтернатива
+139	alternative to	Альтернативой
+140	altitude	высота
+141	altitude	высота над уровнем моря
+142	always	всегда
+143	amazed at	поражен
+144	amazed by	поражен
+145	amazing	удивительно
+146	ambassador	посол
+147	amount	количество
+148	amount of	количество
+149	anable	способный
+150	anchor	якорь
+151	ancle	лодыжка
+152	angel	ангел
+153	anger	злость
+154	angered	рассерженный
+155	angle	угол
+156	angry	сердитый
+157	angry about (situation)	злиться на (ситуацию)
+158	angry about (something)	сердитый на (что-то)
+159	angry with (someone)	сердиться на (кого-то)
+160	announce	объявить
+161	answer	отвечать
+162	answer to	ответьте на
+163	anticipate	Предвосхищать
+164	anymore	больше не
+165	apologise	принести извинения
+166	apologise for	извиниться за
+167	apologize	извиняться
+168	apologize for	извиниться за
+169	appear	появляться
+170	Appear	Появляться
+171	appear	появиться
+172	appear (appears to)	появляться (кажется)
+173	appear (it appears to me)	появляться (мне кажется)
+174	appearance	внешний вид
+175	appearance	появление
+176	appearance	внешность
+177	appears to	кажется
+178	append	добавить
+179	appliances	бытовая техника
+180	apply	подать заявление
+181	apply	применять
+182	appreciate	ценить
+183	appreciation	признательность
+184	Approach	Подход
+185	approach	подходить
+186	approach	подход
+187	appropriate	подходящее
+188	approve	утвердить
+189	approve	одобрить
+190	approve	одобрить
+191	Approve	Одобрить
+192	approve of	одобрять
+193	approvement	утверждение
+194	approximately	примерно
+195	April	апрель
+196	argue	спорить
+197	around	около
+198	around	вокруг
+199	arrange	договариваться
+200	arrangement	договоренность
+201	arrest	арестовать
+202	Arrival	прибытие
+203	arrive	прибыть
+204	arrive at (small place)	прибыть в (небольшое место)
+205	arrive in (city,country)	прибыть в (город, страну)
+206	arrived in, at	прибыл в
+207	arrow	стрелка
+208	article	статья
+209	as far as i	Насколько я
+210	as far as i know	насколько я знаю
+211	as far as i remember	насколько я помню
+212	as far as i'm concerned	что касается меня
+213	as far as l am concerned	что касается меня
+214	as for	что касается
+215	as soon as	как только
+216	as usual	по-прежнему
+217	as well	также
+218	as well as	также как и
+219	as well as	так же как
+220	ascending	по возрастанию
+221	ashame	позор
+222	ashamed	стыдящийся
+223	ashamed of	стыдно за
+224	Assign	Назначать
+225	assign	назначать
+226	assignment	назначение
+227	associated	связанный
+228	associated with	связана с
+229	assume	предполагать
+230	assumption	предположение
+231	assurance	гарантия
+232	ate	съел
+233	attach	прикреплять
+234	attempt	пытаться
+235	attempt	попытка
+236	attend	посещать
+237	attend	присутствовать
+238	attention	внимание
+239	attitude	отношение
+240	attitude to	отношение к
+241	attitude towards	отношение к
+242	attract	привлекать
+243	attractive	привлекательный
+244	aunt	тетя
+245	aurelie	Орел
+246	author	автор
+247	authorities	власти
+248	authority	орган власти
+249	available	доступный
+250	available	имеется в наличии
+251	avalanche	лавина
+252	average	средний
+253	average	в среднем
+254	avoid	избегать
+255	avoid doing	избегать делать
+256	award	награда
+257	aware	осведомленный
+258	aware	знать
+259	aware of	в курсе
+260	away	прочь
+261	away	далеко
+262	awesome	классно
+263	awful	ужасный
+264	axis	ось
+265	back	назад
+266	bad at	плох в
+267	bake	печь
+268	barbecue	барбекю
+269	barely	едва
+270	basically	в принципе
+271	Bath	ванна
+272	bay	залив
+273	be away	отсутствовать
+274	Be away	Отойти
+275	be away (быть далеко, отсутствовать)	быть далеко (быть далеко, отсутствовать)
+276	be late	опаздывать
+277	be late for	опоздать на
+278	be out	выйти
+279	be out (быть вне дома)	быть вне дома (быть вне дома)
+280	be out of	быть вне
+281	be short of	не хватать
+282	beam	луч
+283	bear	медведь
+284	bear	нести
+285	bear fruit	плодоносят
+286	beard	борода
+287	because of	потому что
+288	become	стали
+289	beef	говядина
+290	beer	пиво
+291	beforehand	заранее
+292	begin	начинать
+293	begin	начинать
+294	begin (at the beginning of something)	начинать (в начале чего-либо)
+295	begin (at the beginning of the something.)	начинать (в начале чего-л.)
+296	begin (in the beginning)	начинать (в начале)
+297	begin (in the beginning.)	начать (в начале)
+298	behaving	вести себя
+299	behavior	поведение
+300	behaviour	поведение
+301	behind	за
+302	Believe	Верить
+303	bell	колокол
+304	belong	принадлежать
+305	Belong	Принадлежать
+306	belong to	принадлежит
+307	below	ниже
+308	belt	пояс
+309	belt	ремень
+310	bend	сгибать
+311	benefit	выгода
+312	beside	рядом
+313	besides	Кроме
+314	best	Лучший
+315	best (to the best of my knowledge)	лучший (насколько мне известно)
+316	bet	ставка
+317	bet	держать пари
+318	betrain	предать
+319	betray	предавать
+320	betrayal	предательство
+321	beware	остерегаться
+322	beyond	вне
+323	beyond	за пределами
+324	Beyond	за
+325	bill	законопроект
+326	billing	выставление счетов
+327	bind	связывать
+328	bishop	епископ
+329	bit	немного
+330	bite	кусать
+331	bitten disappointment	укушенное разочарование
+332	bitter	горький
+333	bitterly	горько
+334	Bitterly	Горько
+335	blackmail	шантажировать
+336	blade	лезвие
+337	blame	обвинять
+338	blame someone for something	обвинять кого-либо в чем-либо
+339	blame something on someone	винить в чем-то кого-либо
+340	bland	ласковый
+341	Bland	ласковый
+342	blanket	одеяло
+343	bleach	отбеливать
+344	bless	благословить
+345	bless	благослови
+346	blew	дул
+347	blind	слепой
+348	blood	кровь
+349	blow	дуть
+350	blue run	синий пробег
+351	boast	хвастаться
+352	boast	хвастовство
+353	boil	кипятить
+354	booking	бронирование
+355	boost	способствовать росту
+356	boost	увеличение
+357	booster	ракета-носитель
+358	bore	сверлить
+359	bored with	скучно
+360	boring	скучный
+361	born	Родился
+362	borrow	занимать
+363	borrow	поручительство
+364	borrow	заимствовать
+365	borrow	одолжить
+366	bottle	бутылка
+367	bottom	нижний
+368	bottom (at the bottom of)	дно (на дне)
+369	bought	купила
+370	boy of reference	мальчик ссылки
+371	bracelet	браслет
+372	bracket	скобка
+373	bracket	скобка
+374	brain	головной мозг
+375	brake	тормозить
+376	branch	ветка
+377	brave	храбрый
+378	bravely	храбро
+379	bravely	отважно
+380	bravery	храбрость
+381	break	перемена
+382	break	ломать
+383	break down	авария
+384	break in	вламываться
+385	break the law	Нарушить закон
+386	break up	расставаться
+387	breakdown	авария
+388	breaking	ломка
+389	breath	дыхание
+390	breathe	дышать
+391	breathe in	вдохни
+392	brick	кирпич
+393	bridge	мост
+394	brief	краткий
+395	brief (briefly speaking)	краткий (кратко говоря)
+396	bright	яркий
+397	Bright	Яркий
+398	bring	приносить
+399	bring about	вызывать
+400	bring down	сбить
+401	bring up	воспитывать
+402	broadcast	транслировать
+403	broken	сломаны
+404	browse	просматривать
+405	brunch	поздний завтрак
+406	brush	щетка
+407	build	строить
+408	bullet	пуля
+409	bump into	врезаться
+410	bump into (натолкнуться)	натолкнуться (натолкнуться)
+411	bunch	гроздь
+412	burn	гореть
+413	burn	жечь
+414	burned	сожженный
+415	burnt	сожженный
+416	business trip	командировка
+417	business trip (on a business trip)	командировка (в командировке)
+418	busy	занятый
+419	buy	купить
+420	by far the	безусловно
+421	by herself	сама
+422	by himself	сам
+423	by myself	сам
+424	byt	быть
+425	cabbage	капуста
+426	cabinet	кабинет
+427	cake	торт
+428	calculate	подсчитывать
+429	call	вызов
+430	call back	Перезвоните
+431	call back	перезвонить
+432	call off	отозвать
+433	call off (отменить)	отменить (отменить)
+434	call to memory	призыв к памяти
+435	calm	спокойный
+436	came across	наткнулся
+437	camel	верблюд
+438	cancel	Отмена
+439	cancellation	отмена
+440	can't bear doing	терпеть не могу делать
+441	can't help admiring	не могу не восхищаться
+442	can't stand doing	терпеть не могу делать
+443	canvas	холст
+444	capable	способный
+445	capable of	способен
+446	capable of (doing)	способен (делать)
+447	cape	мыс
+448	caption	подпись
+449	captions	подписи
+450	capture	захватить
+451	care	забота
+452	Care	Забота
+453	care	уход
+454	carpet	ковровая дорожка
+455	carriage return	возврат каретки
+456	carry	нести
+457	Carry	Нести
+458	carry on	продолжать
+459	carry on	продолжайте
+460	Carry on	Продолжать
+461	carry on luggage	ручной клади
+462	carry out	выполнять
+463	carry out	осуществить
+464	carry out	исполняйте
+465	carry out проводить (научное исследование)	провести проведение (научное исследование)
+466	Carton	коробка
+467	carton of milk	пакет молока
+468	carving	резьба по дереву
+469	case	кейс
+470	case (in any case)	случае (в любом случае)
+471	case sensitive	чувствительный к регистру
+472	cash	денежные средства
+473	castle	замок
+474	Castle	замок
+475	Castle	Замок
+476	casual	повседневная
+477	casual	повседневный
+478	catch	улов
+479	catch	поймать
+480	cathedral	собор
+481	caught	пойманный
+482	cause	причина
+483	cause and investigation	причина и расследование
+484	causes	причины
+485	caution	осторожность
+486	ceiling	потолок
+487	cell	клетка
+488	certain	определенный
+489	certain (to a certain degree)	определенный (до определенной степени)
+490	certain (to a certain extent)	определенный (до определенной степени)
+491	certain (to a certain point)	определенный (до определенного момента)
+492	certainly	конечно
+493	certify the signature	заверить подпись
+494	Chain	Цепь
+495	chain	цепь
+496	challenge	вызов
+497	challenger	претендент
+498	chance	шанс
+499	chance (by chance)	случайно (случайно)
+500	chancellor	канцлер
+501	chandelier	люстра
+502	change	менять
+503	characters	символы
+504	chaser	преследователь
+505	chat	чат
+506	cheat	изменять
+507	check	проверять
+508	check in	регистрироваться
+509	check out	проверить
+510	cheek	щека
+511	cheeke	щека
+512	cheeky	нахальный
+513	cheers	ура
+514	chess	шахматы
+515	chest	грудь
+516	chick	цыпленок
+517	chicken	курица
+518	childhood	детство
+519	chill	холод
+520	chip	чип
+521	choose	выбирать
+522	chose	выбрал
+523	cinema	кино
+524	cite	цитировать
+525	claim	требовать
+526	classmate	одноклассник
+527	clean	чистый
+528	clearly (clearly enough)	ясно (достаточно ясно)
+529	climb	восхождение
+530	climb up	подняться
+531	climbing	альпинизм
+532	clockwise	по часовой стрелке
+533	close	близко
+534	close	Закрыть
+535	close to	рядом с
+536	closely	близко
+537	closer	ближе
+538	cloud	облако
+539	clue	ключ к разгадке
+540	clueless	невежественный
+541	coach	тренер
+542	coarse	грубый
+543	coast	морской берег
+544	coast	берег
+545	coast	побережье
+546	coastline	береговая линия
+547	coat	Пальто
+548	coin	монета
+549	collapse	крах
+550	collect	собирать
+551	come	приходить
+552	come across	натолкнуться
+553	come across	встретить
+554	come along	пойдем
+555	come along - пойти вместе	Приходите - пойти Вмесь
+556	come true	сбываться
+557	coming up	подходит
+558	comment	комментарий
+559	comment on	комментировать
+560	commit	совершить
+561	commit a crime	совершить преступление
+562	communication	связь
+563	compare	сравнивать
+564	compare	сравнить
+565	comparison	сравнение
+566	compete	конкурировать
+567	competition	соревнование
+568	competition	конкуренция
+569	compilate	составить
+570	complain	жаловаться
+571	complain	Пожаловаться
+572	complain about	жаловаться на
+573	complaint	жалоба
+574	complete	полный
+575	completely	полностью
+576	complicated	сложный
+577	composition	состав
+578	comprehend	понимать
+579	comprehensive	всесторонний
+580	comprehensive	всесторонний
+581	comprehensive	комплексный
+582	concatenate	соединять
+583	concent	концентрат
+584	concern	беспокойство
+585	Concern	Беспокойство
+586	concerned	обеспокоенный
+587	concerned about	обеспокоен
+588	conclude	заключить
+589	conclusion	вывод
+590	conclusion (in conclusion)	заключение (в заключении)
+591	conduct	провести
+592	confess	признаваться
+593	confidence	уверенность
+594	confident	уверенная в себе
+595	confirm	подтверждать
+596	confirm	подтвердить
+597	confirm	подтверждения
+598	confus	путать
+599	confuse	сбивать с толку
+600	confuse	путать
+601	confuse	запутывать
+602	confuse	спутать
+603	confused	смущенный
+604	confusion	путаница
+605	congratulate	поздравляют
+606	congratulate on	поздравить с
+607	congratulate on (doing)	поздравить с (сделкой)
+608	conifer	хвойное дерево
+609	Conifer	Хвойное дерево
+610	conifers	хвойные породы
+611	connected	связано
+612	connected to	подключен к
+613	connected with	связано с
+614	connection between	связь между
+615	connection between	связь между
+616	cons	минусы
+617	consecutive	последовательный
+618	consequence	последствие
+619	conserve	сохранить
+620	consider	учитывать
+621	consider	рассмотреть возможность
+622	consider	рассматривать
+623	considerably	значительно
+624	consideration	рассмотрение
+625	consignment note	накладная
+626	consist	состоять
+627	Consist	Состоять
+628	consist of	состоит из
+629	consistent	последовательный
+630	consume	потреблять
+631	consumption	Потребление
+632	contain	содержать
+633	Contain	Содержать
+634	contemporary	современный
+635	contest	соревнование
+636	contest	конкурс
+637	contrary	вопреки
+638	contrary (on the contrary)	наоборот (наоборот)
+639	contribution	вклад
+640	convenience	удобство
+641	convenient	удобный
+642	convention	соглашение
+643	conversation	беседа
+644	conversation	разговор
+645	convience	убежденность
+646	convince	убеждать
+647	cool	прохладно
+648	cop	полицейский
+649	cope	справляться
+650	cope up	справиться
+651	cope with	справляться с
+652	coquet	кокетство
+653	correct	правильный
+654	correct solution	правильное решение
+655	correspond	соответствовать
+656	corrupt	коррумпированный
+657	cost	Стоимость
+658	Cost	Расходы
+659	Cost	Стоимость
+660	cost (at all costs)	стоимость (любой ценой)
+661	cough	кашель
+662	couhht	couhht
+663	could	мог
+664	count	считать
+665	count on	рассчитывать на
+666	countdown	Обратный отсчет
+667	counter	прилавок
+668	counterclockwise	против часовой стрелки
+669	counterfeit	подделка
+670	counterpart	двойник
+671	country	страна
+672	couple	пара
+673	courage	храбрость
+674	courage	мужество
+675	courageously	мужественно
+676	courageously	отважно
+677	course	курс
+678	court	корт
+679	courtyard	двор
+680	coverage	покрытие
+681	cowboy work is never done	ковбойская работа никогда не заканчивается
+682	cozy	уютный
+683	crab	краб
+684	cranberry	клюква
+685	crazy	псих
+686	crazy about	без ума от
+687	cream	пломбир
+688	creep	слизняк
+689	crime	преступление
+690	criminal	уголовное
+691	cripple	калечить
+692	"crop
+"	обрезать
+693	cross	пересекать
+694	cross country	напрямик
+695	crowd	толпа людей
+696	Crowd	Толпа людей
+697	crown	Корона
+698	cucumber	огурец
+699	cure	излечивать
+700	curiosity	любопытство
+701	curious	любопытный
+702	currency	валюта
+703	curse	проклинать
+704	curve	кривая
+705	customer	клиент
+706	cut	резать
+707	cut (cut the long story short)	вырезать (короче говоря)
+708	cute	милый
+709	dairy	молочные продукты
+710	damage	повреждать
+711	damage	наносить ущерб
+712	damage	повреждение
+713	damp	демпфировать
+714	danger	Опасность
+715	dare	смею
+716	dashboard	панель приборов
+717	dashed.	пунктирная.
+718	data	данные
+719	date	свидание
+720	date	Дата
+721	dead end	тупик
+722	deal	по рукам
+723	deal	сделка
+724	deal with	иметь дело с
+725	deals	предложения
+726	dealt	дело
+727	debt	долг
+728	decease	умереть
+729	deceive	обманывать
+730	decide	принимать решение
+731	decision	решение
+732	declaim	декламировать
+733	declare	объявлять
+734	decline	отклонить
+735	decorate	украсить
+736	decrease	снижаться
+737	decrement	декремент
+738	dedicate	посвятить
+739	dedicate	посвящать
+740	defence	защита
+741	defence	оборона
+742	defender	защитник
+743	defense	защита
+744	define	определить
+745	define	определять
+746	Definite	определенные
+747	definitely	определенно
+748	Definition	Определение
+749	definition	определение
+750	degree	степень
+751	delay	задерживать
+752	delay	задержка
+753	delicious	вкусные
+754	deliver	доставлять
+755	deliver	доставить
+756	deliverance	избавление
+757	demand	требование
+758	demand	потребность
+759	demand	требовать
+760	Deny	Отрицать
+761	deny	Отрицать
+762	depart	Вылет
+763	departure	Вылет из
+764	Depend	Зависеть
+765	depend on	зависит от
+766	dependent	зависимый
+767	dependent on	зависит от
+768	deploy	развертывать
+769	deployment	развертывание
+770	depreciate	амортизировать
+771	descaler	средство для удаления накипи
+772	descend	спуск
+773	descend	сходить
+774	describe	описывать
+775	description	описание
+776	desert	пустыня
+777	deserve	заслуживать
+778	Deserve	Заслужить
+779	desire	желание
+780	desirve	желать
+781	despite	несмотря
+782	despite	несмотря на
+783	despite of	несмотря на
+784	dessert	Десерт
+785	destination	назначения
+786	destination	пункт назначения
+787	destiny	судьба
+788	detergent	моющее средство
+789	develop	развивать
+790	developer	разработчик
+791	development	развитие
+792	devote	посвящать
+793	Devote	Посвящать
+794	devote	посвятить
+795	devotion	преданность
+796	diarie	дневник
+797	diary	дневник
+798	died from	умер от
+799	died of	умер от
+800	different	другой
+801	different from	отличный от
+802	different with	разные с
+803	Dig	Копать землю
+804	dig	копать землю
+805	digest	переваривать
+806	digger	копатель
+807	digitate	оцифровать
+808	dim	тусклый
+809	dimension	измерение
+810	dimly	смутно
+811	dimmer	диммер
+812	dimming	затемнение
+813	dinner	обед
+814	dip briefly	опустить кратко
+815	Direct	Прямой
+816	direct	непосредственный
+817	direction	направление
+818	disable	запрещать
+819	disabled person	инвалид
+820	disadvantage	недостаток
+821	Disagree	Не согласен
+822	disallow	запретить
+823	disappear	исчезнуть
+824	disappear	исчезать
+825	disappoint	разочаровывать
+826	disappointe	разочаровать
+827	disappointed	расстроен
+828	disappointed	разочарованный
+829	disappointed about (by/with)	разочарован (от/с)
+830	disappointment	разочарование
+831	disapprove	не одобрять
+832	disapprove	не одобряют
+833	disclaimer	отказ
+834	disclosed	раскрыт
+835	discount	скидка
+836	discover	обнаружить
+837	disease	болезнь
+838	disgust	отвращение
+839	disgusting	отвратительный
+840	dish	блюдо
+841	disinterestedly	бескорыстно
+842	Dislike	Неприязнь
+843	distinct	отчетливый
+844	distinguish	выделить
+845	distinguish	различать
+846	distribute	распространение
+847	distribution	распределение
+848	disturb	беспокоить
+849	dive	нырять
+850	divide	делить
+851	division	деление
+852	divorce	расторжение брака
+853	divorce	развод
+854	do	делать
+855	do (to do it over)	сделать (переделать это)
+856	do harm	причинять вред
+857	do my best to	делаю все возможное, чтобы
+858	Do my best.	Сделаю все что в моих силах.
+859	do up (застегивать)	застегивать (застегивать)
+860	do up (застегнуть)	застегнуть (застегнуть)
+861	do up (отремонтировать)	ремонтировать (отремонтировать)
+862	do up (ремонтировать)	приводить в порядок (ремонтировать)
+863	doesn't concern me	меня это не касается
+864	donate	пожертвовать
+865	donkey	осел
+866	dot	точка
+867	dotted.	пунктирный.
+868	doubt	сомневаться
+869	Doubt	Сомневаться
+870	Doubt	Сомнение
+871	douchebag	ублюдок
+872	download	скачать
+873	draft	проект
+874	drank	пил
+875	draw	рисовать
+876	draw	привлечь
+877	dream	мечта
+878	dreamed	снилось
+879	dreamt	снилось
+880	dress down (носить неформальную одежду)	одеваться (носить неформальную одежду)
+881	dress up	наряжаться
+882	dress up (носить формальную одежду)	одеваться (форма ношения одежды)
+883	drew	нарисовалась
+884	drink	пить
+885	drive	водить машину
+886	drop	уронить
+887	drop	Падение
+888	drove	поехали
+889	drown	утонуть
+890	drown	тонуть
+891	duck	утка
+892	due to	из-за
+893	Dug	выкопанный
+894	dump	свалка
+895	durability	долговечность
+896	duration	продолжительность
+897	during	в течение
+898	duty	долг
+899	duty	обязанность
+900	ear	ухо
+901	early	рано
+902	earn	зарабатывать
+903	easy	легкий
+904	easy (easy to do)	легко (легко сделать)
+905	eat	есть
+906	eat for lunch	есть на обед
+907	edge	край
+908	edit	редактировать
+909	edition	издание
+910	educational	образовательный
+911	efficient	эффективный
+912	efford	усилие
+913	effort	усилие
+914	effort	усилие
+915	either	или
+916	either	либо
+917	either ...or	либо ... или
+918	either or	либо или
+919	eject	выбрасывать
+920	Eject	Извлечь
+921	elect	избрать
+922	election	выборы
+923	elevate	поднять
+924	elevation	высота
+925	eliminating	устранение
+926	else	еще
+927	embed	вставлять
+928	emergency	скорая медицинская помощь
+929	emergency	чрезвычайное происшествие
+930	emphasise	подчеркивать
+931	emphasize	подчеркнуть
+932	emphasize	подчеркивать
+933	employee	работник
+934	employees	сотрудники
+935	employees	сотрудников
+936	employer	работодатель
+937	employment	занятость
+938	enable	включить
+939	encourage	поощрять
+940	encourage someone to do something	побуждать кого-либо сделать что-либо
+941	end	конец
+942	end (at the end of something)	конец (в конце чего-либо)
+943	end (at the end of the something.)	конец (в конце чего-л.)
+944	end (in the end)	конец (в конце)
+945	end (in the end.)	конец (в конце.)
+946	end in something	закончиться чем-то
+947	end in something (существительное)	закончиться чем-нибудь (существительным)
+948	end up	завершить
+949	end up doing (глагол+ ing)	в конечном итоге делаю (глагол+ ing)
+950	endeavour	прилагать усилия
+951	endurance	выносливость
+952	enemy	враг
+953	engage	привлекать
+954	engage	заниматься
+955	enhanced	повышенная
+956	enigma	загадка
+957	enjoy	наслаждаться
+958	enlarge	увеличивать
+959	enough	достаточно
+960	enrich	обогащать
+961	enter	вводить
+962	enter	входить
+963	enter	войти
+964	enterprise	предприятие
+965	entertain	развлекать
+966	entertainment	развлечение
+967	entertainment	развлекательная программа
+968	enthusiasm	энтузиазм
+969	entrance	Вход
+970	entrepreneur	предприниматель
+971	environment	окружающая обстановка
+972	environment	среда
+973	environment	Окружающая среда
+974	envy	завидовать
+975	envy	зависть
+976	equal	равный
+977	equipment	оборудование
+978	erase	стереть
+979	erase	стирать
+980	eruption	извержение вулкана
+981	escape	побег
+982	escape from	сбежать из
+983	escaped from	сбежал из
+984	eshame	стыдиться
+985	essay	сочинение
+986	essential	существенный
+987	essentially	по сути
+988	establish	учреждать
+989	established	учредил
+990	establishment	учреждение
+991	estate	имущество
+992	estimate	оценивать
+993	estimate	оценить
+994	estimation	оценка
+995	eternal	вечный
+996	eternity	вечность
+997	evaluate	оценивать
+998	evaluate	оценивать
+999	evaluated	оценен
+1000	even	четный
+1001	even	четное
+1002	ever	Когда-либо
+1003	everlast	вечный
+1004	everlasting	вечный
+1005	everyone	каждый
+1006	evidence	доказательства
+1007	evident	очевидный
+1008	evoluate	развивать
+1009	exact	точный
+1010	exact (to be exact)	точно (чтобы быть точным)
+1011	exact (to be more exact)	точно (точнее)
+1012	exactly	точно
+1013	exactly	в точку
+1014	exaggerate	преувеличивать
+1015	exalted	возвышенный
+1016	exceed	превосходить
+1017	except	Кроме
+1018	exception	исключение
+1019	exchange	обмен
+1020	excite	возбуждать
+1021	excited	взволнованный
+1022	excited about	взволнован по поводу
+1023	exciting	захватывающе
+1024	exclaim	воскликнуть
+1025	exclude	исключать
+1026	execute	выполнять
+1027	exhauste	истощать
+1028	exist	существует
+1029	exit	выход
+1030	expand	расширять
+1031	expect	ожидать
+1032	Expect	Ожидать
+1033	expectation	ожидание
+1034	expected	ожидаемый
+1035	expense	расход
+1036	expenses	затраты
+1037	expensive	дорогой
+1038	experience	опыт
+1039	expire	истекает
+1040	expire	истекать
+1041	expiry	истечение срока
+1042	explode	взорваться
+1043	explore	проводить исследования
+1044	explorer	исследователь
+1045	explosion	взрыв
+1046	explosive	взрывной
+1047	exploud	взрываться
+1048	expose	подвергайте
+1049	expose	разоблачать
+1050	expression	выражение
+1051	extend	продлевать
+1052	extend	расширять
+1053	extend	простираться
+1054	extension	расширение
+1055	extent	степень
+1056	fail	неудача
+1057	fail	потерпеть неудачу
+1058	fail	провал
+1059	fair	Справедливая
+1060	fair (to be fair)	честно (быть честным)
+1061	fairly	весьма
+1062	fairy	сказочный
+1063	fairy tale	сказка
+1064	Fairy Tale	Сказка
+1065	fall	падение
+1066	fall	падать
+1067	fall behind	отставать
+1068	falling	падение
+1069	falling down	потерпеть неудачу
+1070	falling in love	влюбляться
+1071	familiar	привычный
+1072	familiar	знакомый
+1073	familiar (I familiar with someone , something)	знакомый (я знаком с кем-то, чем-то)
+1074	familiar (someone, something familiar to me)	знакомый (кто-то, что-то знакомое мне)
+1075	famous	известный
+1076	fan	поклонник
+1077	far	далеко
+1078	far away	далеко
+1079	fare	плата за проезд
+1080	fares	тарифы
+1081	farther	дальше
+1082	fascinate	очаровывать
+1083	fascinated	очарованный
+1084	fascinated by	очарован
+1085	fascinating	очаровательный
+1086	fasten	закрепить
+1087	fastened	пристегнутый
+1088	father	отец
+1089	fault	придираться
+1090	favour	одолжение
+1091	fear	страх
+1092	feature	характерная черта
+1093	features	функции
+1094	fed	кормили
+1095	fed up	сыт по горло
+1096	fed up with	сыт по горло
+1097	fed up with (to be fed up with)	надоело (надоело)
+1098	feed	кормить
+1099	feed	корм
+1100	feed	подача
+1101	feedback	Обратная связь
+1102	feel	Чувствовать
+1103	feel like doing	хочется делать
+1104	feel like doing something	хочется что-то сделать
+1105	feet	ноги
+1106	fell	упал
+1107	female	женский пол
+1108	fence	изгородь
+1109	fetch	получать
+1110	few	мало
+1111	fight	Борьба
+1112	fight	борьба
+1113	figure	фигура
+1114	figure out (заметить, понять)	выяснить (заметить, понять)
+1115	fill	наполнять
+1116	find	найти
+1117	find	находить
+1118	find out	узнать
+1119	Find out	Узнать
+1120	Find out.	Узнай
+1121	fine	отлично
+1122	finely	хорошо
+1123	finish doing	закончить делать
+1124	fired	уволенный
+1125	firmly	твердо
+1126	firmly believe	твердо верить
+1127	first of all	прежде всего
+1128	Fit	Поместиться
+1129	fix	исправить
+1130	fixes	исправления
+1131	flat	плоский
+1132	flatter	льстить
+1133	flattered	польщен
+1134	flavour	аромат
+1135	Fleet	флот
+1136	flew	полетела
+1137	flex	сгибать
+1138	flick through	пролистать
+1139	flight fares	стоимость авиабилетов
+1140	fling	брыкаться
+1141	flip-flops	шлепки
+1142	floor	пол
+1143	flour	мука
+1144	flow	течь
+1145	flower	цветок
+1146	flu	грипп
+1147	fluent	беглый
+1148	fly	летать
+1149	focus on	сосредоточиться на
+1150	fog	туман
+1151	fogg	туман
+1152	folder	папка
+1153	fond	любит
+1154	fond (be fond of doing)	любить (любить делать)
+1155	fond of	любят
+1156	food	еда
+1157	footage	отснятый материал
+1158	for no reason	без причины
+1159	for the sake of	ради
+1160	forbid	запретить
+1161	forbidden	запрещено
+1162	force	сила
+1163	Force	сила
+1164	forced	принужденный
+1165	forced (to be forced to do something)	вынуждать (быть принужденным к чему-либо)
+1166	forecast	прогноз
+1167	foresee	предвидеть
+1168	Forest	лес
+1169	forever	навсегда
+1170	forgave	простили
+1171	Forget	Забывать
+1172	forgive	прощать
+1173	Forgive	прощать
+1174	forgot	забыл
+1175	fork	вилка
+1176	former	бывший
+1177	fortitude	сила духа
+1178	fortunately	к счастью
+1179	fortune	удача
+1180	fought	дрался
+1181	fountain	фонтан
+1182	frame	Рамка
+1183	framework	рамки
+1184	frankly	честно говоря
+1185	frankly	Откровенно
+1186	franky	откровенный
+1187	franky (to be franky)	откровенный (быть откровенным)
+1188	freeze	заморозить
+1189	frequently	часто
+1190	fresh	свежий
+1191	fright	испуг
+1192	frighten	пугать
+1193	frighten	стращать
+1194	frightened	испуганный
+1195	frightened of	испугался
+1196	frog	лягушка
+1197	frustrate	расстраивать
+1198	fun	весело
+1199	funny	смешной
+1200	furious	яростный
+1201	furniture	мебель
+1202	further	способствовать
+1203	further	дальше
+1204	further	в дальнейшем
+1205	gap	зазор
+1206	gateway	шлюз
+1207	gear	механизм
+1208	gear	механизм
+1209	gest	жест
+1210	get	получить
+1211	get acquainted with	познакомиться с
+1212	get around (осмотреть)	обойти (смотреть)
+1213	get at (предлагать)	добраться (предложить)
+1214	get closer	приблизиться
+1215	get in	Залезай
+1216	get in (садиться в машину)	садиться (садиться в машину)
+1217	get in touch	связаться
+1218	get into	попасть в
+1219	get into (садиться в машину)	садиться (садиться в машину)
+1220	get it across ( )	донести это ( )
+1221	get it across (донести это информационно )	передать это (донести это информацию)
+1222	get off (выйти из Атобуса, Поезда, Самолета)	выйти (выйти из Атобуса, Поезда, Самолета)
+1223	get on	ладить
+1224	get on (садиться в Атобус, Поезд, Самолет)	садиться (садиться в Автобус, Поезд, Самолет)
+1225	get out	Убирайся
+1226	get out off (выйти из машины)	выйти (выйти из машины)
+1227	get rid of	избавиться от
+1228	get sick	заболеть
+1229	get stuck	застрять
+1230	get up	вставай
+1231	ghost	призрак
+1232	gift	подарок
+1233	give up (бросить)	сдаваться (бросить)
+1234	give up doing	перестать делать
+1235	give up doing something	перестать что-то делать
+1236	glance	взглянуть мельком
+1237	glance at	Взгляд на
+1238	glasse	стекло
+1239	glasses	очки
+1240	go	идти
+1241	go away	Уходите
+1242	go away	Уходите
+1243	Go away	Уходите
+1244	go away (->уехать далеко)	уйти (->уехать далеко)
+1245	go by	пройти мимо
+1246	go on	продолжать
+1247	go on doing	продолжать делать
+1248	go out	выходить
+1249	go out	выходить
+1250	goat	козел
+1251	goes without saying	Само собой разумеется
+1252	going (be going to do)	собирается (будет делать)
+1253	going on	продолжается
+1254	going to	собираюсь
+1255	good	хорошо
+1256	good at	хорош в
+1257	good dreams	хороших снов
+1258	goods	груз
+1259	gorgeous	безумно красивая
+1260	grab	схватить
+1261	grab	грейфер
+1262	graduate from	выпуститься из
+1263	grape	виноград
+1264	grapes	виноград
+1265	grate	решетка
+1266	grateful	благодарный
+1267	grateful	благодарен
+1268	grateful to (you)	благодарен (вам)
+1269	greed	жадность
+1270	greet	приветствовать
+1271	grew	выросла
+1272	grid	сетка
+1273	grip	схватить
+1274	grove	роща
+1275	grow	расти
+1276	growth	рост
+1277	guess	предполагать
+1278	Guess	Угадать
+1279	guess	Угадай
+1280	guest	гость
+1281	guide	руководство
+1282	guideline	ориентир
+1283	guilt	чувство вины
+1284	Guilt	Вина
+1285	guilt	вина
+1286	guilty	виновный
+1287	guilty of	виновен в
+1288	gulf	залив
+1289	gutter	желоб
+1290	habit	привычка
+1291	had (l had better do it)	было (мне лучше сделать это)
+1292	had to	должен был
+1293	hail	град
+1294	half	Половина
+1295	ham	ветчина
+1296	hand	рука
+1297	hand (on the one hand)	рука (с одной стороны)
+1298	hand (on the other hand)	рука (с другой стороны)
+1299	handsome	красивый
+1300	handwriting	почерк
+1301	hang	повесить
+1302	hang	вешать
+1303	hang on	подожди
+1304	hang out	тусоваться
+1305	happen	случаться
+1306	happy	счастливый
+1307	harm	вред
+1308	harmful	вредный
+1309	hat	шляпа
+1310	hat	шапка
+1311	hatch	вылупиться
+1312	hate	ненавидеть
+1313	Hate	Ненавидеть
+1314	hate doing	ненавижу делать
+1315	hatred	ненависть
+1316	have	иметь
+1317	have (have to, had to-modal)	иметь (должен, должен был модальный)
+1318	have a bite	перекусить
+1319	haven	убежище
+1320	head	глава
+1321	Hear	Слышать
+1322	heard	слышал
+1323	heard	Слышала
+1324	heart	сердце
+1325	heart (learn by heart)	сердце (учить наизусть)
+1326	heat	нагревать
+1327	heave	вспучивание
+1328	heavy	тяжелый
+1329	held	Ручной
+1330	helmet	шлем
+1331	help out (выручать)	помочь (выручать)
+1332	help out (помочь, помочь финансово)	помочь (помочь, помочь финансово)
+1333	heritage	наследство
+1334	hesitate	сомневаться
+1335	hesitate	стесняться
+1336	hid	спрятанный
+1337	hide	скрывать
+1338	high	высокий
+1339	hiking trip	поход
+1340	hill	холм
+1341	hint	намекать
+1342	hip	бедро
+1343	hips	бедра
+1344	hire	прокат
+1345	hit	ударять
+1346	hit	хит
+1347	hold	держать
+1348	hold on	подожди
+1349	hold up	задерживать
+1350	hole	отверстие
+1351	home	домой
+1352	honest	честный
+1353	honest (to be honest)	честный (если честно)
+1354	honor	честь
+1355	hook	крюк
+1356	hope	надеяться
+1357	hopeless	безнадежный
+1358	hopeless at	безнадежно
+1359	horse	лошадь
+1360	hospital	больница
+1361	hospitality	гостеприимство
+1362	hotspot	точка доступа
+1363	how many times a day	сколько раз в день
+1364	hug	обнимать
+1365	huge	огромный
+1366	humanity	человечество
+1367	humidiat	влажность
+1368	humiliate	унижать
+1369	humour	юмор
+1370	hung	повесили
+1371	hung	висела
+1372	hungry	голодный
+1373	hurry	торопиться
+1374	hurry (be in a hurry)	спешить (торопиться)
+1375	hurry (to be in a hurry)	спешить (торопиться)
+1376	hurry up	торопиться
+1377	hurry up	поторопись
+1378	Hurry up	Поторопись
+1379	hurt	повредить
+1380	hurt	причинить боль
+1381	i don't care	мне все равно
+1382	I faces	я сталкиваюсь
+1383	I will manage.	Я справлюсь.
+1384	idealize	идеализировать
+1385	idolise	боготворить
+1386	Idolize	Боготворить
+1387	ignition	зажигание
+1388	ignore	игнорировать
+1389	ill	больной
+1390	imagine	представить
+1391	Imagine	Представить
+1392	Immagine	Представьте себе
+1393	immediately	немедленно
+1394	immortal	бессмертный
+1395	immutable	неизменный
+1396	impact	влияние
+1397	impatiens	нетерпеливый
+1398	impatient	нетерпеливый
+1399	impossible	невозможно
+1400	impossible (impossible to do)	невозможно (невозможно сделать)
+1401	Impress	Произвести впечатление
+1402	impressed by	впечатлен
+1403	impression	впечатление
+1404	improve	улучшить
+1405	improve	улучшать
+1406	improvement	улучшение
+1407	in other words	другими словами
+1408	in spite	несмотря
+1409	in spite of	несмотря на
+1410	in vain	напрасно
+1411	Include	Включать
+1412	include	включают
+1413	Include	Включают
+1414	income	доход
+1415	inconvinience	неудобство
+1416	increase	увеличивать
+1417	increase	увеличение
+1418	incredible	невероятный
+1419	Incredible	Невероятно
+1420	incredible	неимоверный
+1421	increment	приріст
+1422	Increment	Инкремент
+1423	incurable	неизлечимый
+1424	independent	независимый
+1425	infantry	пехота
+1426	infinity	бесконечность
+1427	Infinity	бесконечность
+1428	influence	влияние
+1429	influenced	влияние
+1430	inform for	сообщить для
+1431	inherent	присущий
+1432	inherently	по своей сути
+1433	inherit	наследовать
+1434	injuries	травмы
+1435	innocent	невиновный
+1436	innuendo	инсинуация
+1437	inoculated	привит
+1438	input	Вход
+1439	insect	насекомое
+1440	inside	внутри
+1441	insist	настаивать
+1442	insist	настоять
+1443	insist on	настаивать на
+1444	inspect	осмотреть
+1445	inspiration	вдохновение
+1446	inspire	вдохновлять
+1447	inspire	Inspire
+1448	inspire	внушать
+1449	instance	пример
+1450	instance (for instance)	экземпляр (например)
+1451	instant	мгновенный
+1452	instead	вместо
+1453	instruct	инструктировать
+1454	insulate	изолирует
+1455	insulate	изолировать
+1456	insult	оскорблять
+1457	insurance	страховой
+1458	insurance	страхование
+1459	insure	застраховать
+1460	intelligence	интеллект
+1461	intelligence	intelligence
+1462	intelligence	интеллект
+1463	intend	намереваться
+1464	Intend	намереваться
+1465	Intent	умысел
+1466	intention	намерение
+1467	interaction	взаимодействие
+1468	interception	перехват
+1469	interested in	увлекающийся
+1470	interfere	вмешиваться
+1471	interlocutor	собеседник
+1472	intro	вступление
+1473	introduce	вводить
+1474	introduce	вводить
+1475	introduce to	представлять
+1476	invent	изобретать
+1477	invent	выдумывать
+1478	invention	изобретение
+1479	invest	вкладывать деньги
+1480	investigate	расследовать
+1481	investigation	изучение
+1482	invisible	невидимый
+1483	invitation	приглашение
+1484	invite	пригласить
+1485	invite	приглашать
+1486	invoke	вызывать
+1487	involve	вовлекать
+1488	Involve	Вовлекать
+1489	involved	вовлеченный
+1490	irritation	раздражение
+1491	is different	отличается
+1492	is getting	становится
+1493	is short of	не хватает
+1494	is that	в том, что
+1495	isolate	изолировать
+1496	issue	проблема
+1497	issue	выпуск
+1498	istanbul	Стамбул
+1499	Istanbul	Стамбул
+1500	it doesn't concern me	меня это не касается
+1501	item	предмет
+1502	jealous	ревнивый
+1503	jealous of	ревновать
+1504	Jew	Еврей
+1505	job	работа
+1506	join	присоединиться
+1507	joinery	столярные изделия
+1508	joint	соединение
+1509	joking	шутка
+1510	journey	поездка
+1511	joy	радость
+1512	Judas	Иуда
+1513	judge	судить
+1514	jump	Прыжок
+1515	just	просто
+1516	justice	справедливость
+1517	Justified	Оправдано
+1518	Justify	Оправдывать
+1519	justify	оправдать
+1520	keen	увлеченный
+1521	keen (on doing)	заинтересован (в делании)
+1522	keen on	сосредоточься
+1523	keen on something	увлечен чем-то
+1524	keep	хранить
+1525	keep	держать
+1526	keey	ключ
+1527	kept	хранится
+1528	key (is the key)	ключ (это ключ)
+1529	kick	пинать
+1530	kickin	ворваться
+1531	kidding	шутя
+1532	kind	Добрый
+1533	kind to (me)	добр ко мне)
+1534	knee	колено
+1535	knees	колени
+1536	knife	нож
+1537	knock	стучать
+1538	knockout	выбить
+1539	knot	узел
+1540	Know	Знать
+1541	lack	недостаток
+1542	laid	положил
+1543	lame	хромой
+1544	land	земля
+1545	landing	посадка
+1546	landscape	пейзаж
+1547	lantern	фонарь
+1548	last	последний
+1549	last	прошлой
+1550	last for	последним для
+1551	late	поздно
+1552	late (be late of)	опоздать (опоздать)
+1553	late for	опоздал на
+1554	lately	за последнее время
+1555	lately	недавно
+1556	lateral	боковая
+1557	laugh	смех
+1558	laugh at	Смеяться над
+1559	laughed at	смеялся над
+1560	launch	запуск
+1561	launch	запускать
+1562	laundry	прачечная
+1563	Laundry	Прачечная
+1564	lay	класть
+1565	lay	планировка
+1566	Lay	Lay
+1567	lay down	ложись
+1568	layout	макет
+1569	lazy	ленивый
+1570	lead	привести
+1571	leader	лидер
+1572	learn	учить
+1573	learn (learn something by heart)	выучить (выучить что-либо наизусть)
+1574	learn by heart	выучить наизусть
+1575	learned	научился
+1576	learnt	научился
+1577	lease	аренда
+1578	Least	Наименее
+1579	least	наименее
+1580	least (at least)	по крайней мере (по крайней мере)
+1581	leave	оставлять
+1582	leave (leave a lot to be desired)	оставить (оставлять желать лучшего)
+1583	led	вел
+1584	left	оставил
+1585	left for	оставил для
+1586	leg	ножка
+1587	leg behind - отставать	нога сзади - отставать
+1588	legacy	наследие
+1589	lend	одалживать
+1590	lend	давать в долг
+1591	length	длина
+1592	lent	одолжил
+1593	less	меньше
+1594	less	Меньше
+1595	let	позволять
+1596	let (let me down)	пусть (подведи меня)
+1597	let down	подводить
+1598	let in	впустить
+1599	let me down	подведи меня
+1600	let out	выпустить
+1601	letting	позволяя
+1602	lie (ложь, лгать)	ложь (ложь, лгать)
+1603	lie down	лечь
+1604	lift	поднимать
+1605	light	свет
+1606	like	нравиться
+1607	Like	Нравиться
+1608	Like	подобно
+1609	like doing	нравится делать
+1610	like this	как это
+1611	likely	вероятно
+1612	lime	лайм
+1613	limit	предел
+1614	limp	хромать
+1615	link	ссылка
+1616	lips	губы
+1617	list	список
+1618	listen	Слушать
+1619	listen to	слушать
+1620	lit	горит
+1621	literate	грамотный
+1622	live	жить
+1623	live up	жить
+1624	live up to (оправдать ожидания)	оправдать ожидания (оправдать ожидания)
+1625	live up to (оправдать, напр. ожидание)	оправдать (оправдать, напр. ожидание)
+1626	load	грузить
+1627	locator	локатор
+1628	lock	замок
+1629	log in	авторизоваться
+1630	log off	выйти
+1631	log on	войти в систему
+1632	log out	выйти
+1633	lonely	Одинокий
+1634	long	длинный
+1635	long time ago	давным-давно
+1636	Look	Посмотрите
+1637	look after	присматривать за
+1638	look ahead	смотреть вперед
+1639	look at	посмотри на
+1640	look back	оглядываться
+1641	look down	смотреть вниз
+1642	look down on (смотреть свысока)	смотреть вниз (посмотреть высока)
+1643	look for	искать
+1644	look forward	ожидать
+1645	look forward to	ждать с нетерпением
+1646	look forward to (глагол + ing)	с нетерпением жду (глагол + ing)
+1647	look forward to (существительное)	с нетерпением жду (существительного)
+1648	look forward to doing	с нетерпением жду возможности сделать
+1649	look into	изучить
+1650	look into (расследовать)	изучить (расследовать)
+1651	look through	просматривать
+1652	look up	искать
+1653	look up (посмотреть в справочном источнике)	посмотреть (посмотреть в справочном источнике)
+1654	look up (посмотреть, поискать в словаре)	посмотреть (посмотреть, поискать в словаре)
+1655	look up to	смотреть на
+1656	look up to (восхищаться)	смотреть (восхищаться)
+1657	looking	смотрящий
+1658	looking for	находясь в поиске
+1659	lookup	искать
+1660	loose	свободный
+1661	lose	терять
+1662	lose	потерять
+1663	loss	потеря
+1664	loud	громкий
+1665	loud	громко
+1666	loudly	громко
+1667	Love	Любить
+1668	lover	возлюбленный
+1669	lower	ниже
+1670	lucky	удачливый
+1671	lucky (be lucky)	повезло (быть удачливым)
+1672	lucky (l am lucky)	повезло (мне повезло)
+1673	lucky (l was lucky)	повезло (мне повезло)
+1674	luxury	роскошь
+1675	mad	Сумасшедший
+1676	made up my mind (решить)	решил (решить)
+1677	magically	волшебно
+1678	main	главный
+1679	maintenance	поддержание
+1680	major	главный
+1681	make	сделать
+1682	make (make someone do something)	заставить (заставить кого-либо сделать что-либо)
+1683	make (to be made to do something)	заставлять (заставлять что-то делать)
+1684	make up	составить
+1685	make up (придумать)	накраситься (придумать)
+1686	make up for	компенсировать
+1687	make up my mind (решить)	решиться (решить)
+1688	male	мужской
+1689	manage	управлять
+1690	managed to	удалось
+1691	margin	прибыль
+1692	maroon	бордовый
+1693	married	женатый
+1694	married (be married to)	замужем (быть замужем)
+1695	married (get married her)	жениться (жениться на ней)
+1696	married her	женился на ней
+1697	married to	замужем за
+1698	mascara	тушь для ресниц
+1699	mash	пюре
+1700	masterpiece	шедевр
+1701	match	совпадение
+1702	Matter	Иметь значение
+1703	meal	еда
+1704	mean	иметь в виду
+1705	mean	значит
+1706	Mean	Значить
+1707	meaning	смысл
+1708	Measure	Мера
+1709	Measure	Измерение
+1710	meat	мясо
+1711	memories	воспоминания
+1712	mental development	умственное развитие
+1713	mention	упомянуть
+1714	mention	упоминание
+1715	merger	слияние
+1716	mess	беспорядок
+1717	might	мог бы
+1718	mind	разум
+1719	mirror	зеркало
+1720	misbehaving	плохо себя ведет
+1721	misbehavior	плохое поведение
+1722	mishear	ослышаться
+1723	mislead	ввести в заблуждение
+1724	miss	скучать
+1725	missing	отсутствует
+1726	misunderstand	неправильно понять
+1727	mix up	смешивать
+1728	monkey	обезьяна
+1729	mood	настроение
+1730	mood (be in a good mood)	настроение (быть в хорошем настроении)
+1731	more precisely	точнее
+1732	mortal	смертный
+1733	mosquito	комар
+1734	mosquitoes	москиты
+1735	most	наиболее
+1736	mostly	главным образом
+1737	mouse	мышь
+1738	mousse	мусс
+1739	moustache	усы
+1740	mouth	рот
+1741	mufflers	глушителей
+1742	multiplication	умножение
+1743	multiply	умножать
+1744	mum	мама
+1745	muppet	кукла
+1746	murder	убийство
+1747	murderer	убийца
+1748	mushroom	гриб
+1749	mussel	мидия
+1750	must	должен
+1751	mustache	усы
+1752	mute	немой
+1753	mutton	баранина
+1754	mysterious	загадочный
+1755	namesake	тезка
+1756	narrow	узкий
+1757	narrow	сужать
+1758	narrowest	узкая
+1759	native	родной
+1760	nayve	наивный
+1761	necessarily	обязательно
+1762	necessary	необходимо
+1763	necessary (necessary to do)	необходимо (необходимо сделать)
+1764	need	нуждаться
+1765	Need	Нужно
+1766	need (need to be done, needed to be done)	нужно (нужно сделать, нужно сделать)
+1767	need to do (needn't do, needn't have done- modal negative)	нужно делать (не нужно делать, не нужно было делать - модальное отрицание)
+1768	needle	игла
+1769	needy	нуждающийся
+1770	negligent	небрежный
+1771	negotiate	вести переговоры
+1772	negotiation	Переговоры
+1773	neighbor	сосед
+1774	neighbors	соседи
+1775	neighbour	сосед
+1776	neither ...nor	ни ни
+1777	neither nor	ни ни
+1778	nephew	племянник
+1779	Nest	Гнездо
+1780	network	сеть
+1781	never	никогда
+1782	nice	хороший
+1783	niece	племянница
+1784	nod	кивок
+1785	nodd	кивать
+1786	node	узел
+1787	note	Примечание
+1788	notes	Примечания
+1789	notice	уведомление
+1790	notification	уведомление
+1791	notify	уведомлять
+1792	noughties	нулевые
+1793	nth	nth
+1794	numeral	цифра
+1795	nurse	медсестра
+1796	oat	овес
+1797	oat flakes	овсяные хлопья
+1798	oatmeal	овсянка
+1799	objection	возражение
+1800	obligatory	обязательный
+1801	oblique	косой
+1802	obsess	одержим
+1803	obvious	очевидный
+1804	obviously	очевидно
+1805	obviously (obviously enough)	очевидно (достаточно очевидно)
+1806	occasion	повод
+1807	occasionally	изредка
+1808	occasionally	время от времени
+1809	occupation	Занятие
+1810	occupation	оккупация
+1811	octopus	осьминог
+1812	odd	странный
+1813	offer	предлагает
+1814	officiants	чиновники
+1815	often	довольно часто
+1816	omelette	омлет
+1817	On his own.	Сам по себе.
+1818	On my own.	Самостоятельно.
+1819	one and a half	один с половиной
+1820	one day	когда-нибудь
+1821	opacity	непрозрачность
+1822	opinion	мнение
+1823	opportunity	возможность
+1824	order	порядок
+1825	oriental	восточный
+1826	oscillate	колебаться
+1827	ought	должен
+1828	outlet	торговая точка
+1829	oven	печь
+1830	over	над
+1831	overal	комбинезон
+1832	overall	в общем и целом
+1833	overcame	поборолся
+1834	overcome	превосходить
+1835	overcome	преодолеть
+1836	overestimate	переоценивать
+1837	overly	чрезмерно
+1838	overtake	обогнать
+1839	overtake	догнать
+1840	overwhelmed	перегруженный
+1841	owe	быть должным
+1842	owe	задолжать
+1843	own	своя
+1844	own	собственный
+1845	Own	Собственный
+1846	Own	Своя
+1847	ows	должен
+1848	pack	пакет
+1849	package	упаковка
+1850	paint	краска
+1851	palm	Пальма
+1852	pancakes	блины
+1853	pantaloons	панталоны
+1854	pants	штаны
+1855	parabola	парабола
+1856	parcel	посылка
+1857	parrot	попугай
+1858	parsing	разбор
+1859	participate	участвовать
+1860	particularly	в частности
+1861	pass	проходят
+1862	pass	проходить
+1863	paste	вставить
+1864	patience	терпение
+1865	patient	терпеливый
+1866	patter	скороговорка
+1867	pattern	шаблон
+1868	pause	Пауза
+1869	pay attention	обращать внимание
+1870	pay for	платить за
+1871	peas	горох
+1872	pend	отложить
+1873	penetrate	проникать
+1874	penetration	проникновение
+1875	people	люди
+1876	perform	выполнять
+1877	perform	выполнять
+1878	performance	представление
+1879	performance	производительность
+1880	permanent	постоянный
+1881	permission	разрешение
+1882	permit	разрешать
+1883	permitted	разрешенный
+1884	permitted (to be permitted to)	разрешено (быть разрешенным)
+1885	perpetual	вечный
+1886	persuade	убеждать
+1887	phone back	перезвонить
+1888	pick	выбирать
+1889	pick up	поднимать
+1890	pick up	подбирать
+1891	pie	пирог
+1892	pine	сосна
+1893	Pine	сосна
+1894	pivot	вращаться
+1895	pivot	поворот
+1896	pivot	стержень
+1897	pivot slips	опорные скольжения
+1898	plan	план
+1899	plane	самолет
+1900	plant	растение
+1901	plant	завод
+1902	plate	тарелка
+1903	pleasure	удовольствие
+1904	plug	затыкать
+1905	plug in	подключить
+1906	plus	плюс
+1907	point	точка
+1908	Point	Точка
+1909	point at	указывать на
+1910	point of reference	точка отсчета
+1911	point of view	точка зрения
+1912	point out	указать
+1913	point out	указывать
+1914	point out (заметить)	отметить (заметить)
+1915	pointed out	указал
+1916	pole	столб
+1917	polite to	вежливый с
+1918	polite to (me)	вежливо (со мной)
+1919	pollute	загрязнять
+1920	pollution	загрязнение
+1921	pool	бассейн
+1922	poor	бедные
+1923	porch	порог
+1924	pork	свинина
+1925	portable	портативный
+1926	possess	владеть
+1927	possess	обладать
+1928	possessed	одержимый
+1929	possession	владение
+1930	possible	возможно
+1931	possible	возможный
+1932	pour	наливать
+1933	poverty	бедность
+1934	praise	хвалить
+1935	pray	молиться
+1936	pray for	молиться за
+1937	prayer	молитва
+1938	preacher	проповедник
+1939	precise	точный
+1940	precise (to be more precize)	точный (точнее)
+1941	precise (to be precise)	точный (точнее)
+1942	precise (to be precize)	точный (чтобы быть точным)
+1943	precisely	точно
+1944	precision	точность
+1945	predator	хищник
+1946	predict	предсказывать
+1947	predict	прогнозировать
+1948	predictor	предсказатель
+1949	Prefer	Предпочитать
+1950	Prefer	Предпочитаю
+1951	pregnant	беременная
+1952	preparation	подготовка
+1953	prepare	подготовить
+1954	prepare for	подготовиться к
+1955	preparing for	подготовка к
+1956	preposition	предлог
+1957	prescribe	прописывать
+1958	prescription	рецепт
+1959	present	настоящее время
+1960	pressure	давление
+1961	prestigious	престижный
+1962	pretend	делать вид
+1963	pretend	притворяться
+1964	pretend to be	притворяться
+1965	prevent	не допустить
+1966	prevent	предотвращать
+1967	prevent from	предотвратить
+1968	prevent something from ...ing	предотвратить что-то от ...ing
+1969	price	цена
+1970	pride	гордость
+1971	priest	священник
+1972	primarily	в первую очередь
+1973	primary	начальный
+1974	prime	основной
+1975	Prime	основной
+1976	prior	предшествующий
+1977	priority	приоритет
+1978	prise	приз
+1979	prison	тюрьма
+1980	prize	приз
+1981	probably	наверное
+1982	procedure	процедура
+1983	proceed	продолжить
+1984	Prodigy	Вундеркинд
+1985	productively	продуктивно
+1986	profit	выгода
+1987	profound	глубокий
+1988	profoundly	глубоко
+1989	prohibit	запретить
+1990	prohibit	запрещать
+1991	prohibited	Запрещенный
+1992	promise	обещать
+1993	Promise	Обещание
+1994	promote	содействовать
+1995	promotion	продвижение
+1996	promout	продвигать
+1997	proof	доказательство
+1998	properly	должным образом
+1999	property	имущество
+2000	property	свойство
+2001	pros	плюсы
+2002	pros and cons	плюсы и минусы
+2003	pros and cons	за и против
+2004	protect	защищать
+2005	protection	защита
+2006	protective	защитный
+2007	proud	гордый
+2008	proud of	горжусь
+2009	proude	гордиться
+2010	prove	доказывать
+2011	prove	доказывать
+2012	provide	предоставлять
+2013	provide with	предоставить с
+2014	pull	тянуть
+2015	pump	насос
+2016	punish	наказывать
+2017	punish	наказать
+2018	punish for	наказать за
+2019	punished for	наказан за
+2020	purchase	покупка
+2021	pure	чистый
+2022	push	толкать
+2023	pushes	толкает
+2024	put (it) across (_разъяснить это)	положить (это) поперек (_разъяснить это)
+2025	put aside	отложить в сторону
+2026	put of doing	положить дела
+2027	put off	откладывать
+2028	put off doing	отложить выполнение
+2029	put out (потушить)	выложить (потушить)
+2030	put up (прикрепить, повесить)	поставить (прикрепить, повесить)
+2031	put up with	смириться с
+2032	quality	качественный
+2033	quantity	количество
+2034	quarrel	ссориться
+2035	quarrel with	ссориться с
+2036	quarrell	ссориться
+2037	query	запрос
+2038	quiet	тихий
+2039	quiet	тихо
+2040	quite	вполне
+2041	quite	довольно
+2042	quite а few	довольно много
+2043	quorum	кворум
+2044	quote	Цитировать
+2045	quotes	цитаты
+2046	quotes	кавычки
+2047	quotient	частное
+2048	Quotient	Частное
+2049	railway station	железнодорожная станция
+2050	rain	дождь
+2051	raise	поднимать
+2052	raise	поднять
+2053	ram	баран
+2054	ran away	убежал
+2055	random	случайный
+2056	rang	звенел
+2057	raptor	хищник
+2058	rare	редкий
+2059	raspberry	малина
+2060	rate	оценивать
+2061	rate (at any rate)	ставка (во всяком случае)
+2062	rather	скорее
+2063	ratio	соотношение
+2064	Ray	Луч
+2065	reach	достигать
+2066	reach	досягаемость
+2067	reach out to	дотянуться к
+2068	react	реагировать
+2069	react to	реагировать на
+2070	ready	готовы
+2071	ready for (something)	готов к (чему-то)
+2072	ready to (do something)	готов (сделать что-либо)
+2073	realise	понимать
+2074	Realize	Понимать
+2075	reason	причина
+2076	reason for	причина для
+2077	rebuild	перестроить
+2078	recall	отзывать
+2079	receipt	квитанция
+2080	receive	получить
+2081	receive	Получать
+2082	recent	недавний
+2083	recently	недавно
+2084	recently	совсем недавно
+2085	recently	относительно недавно
+2086	recently	в последнее время
+2087	recipient	получатель
+2088	recognise	распознавать
+2089	recognise	признать
+2090	recognize	распознавать
+2091	recover	восстанавливаться
+2092	recover from	оправиться от
+2093	recovered from	выздоровел от
+2094	redecorate	ремонтировать
+2095	redo	повторить
+2096	reduce	уменьшать
+2097	reduce	уменьшить
+2098	refer	ссылаться
+2099	refer to	Ссылаться на
+2100	refere	ссылаться
+2101	reference	ссылка
+2102	refresh	обновить
+2103	refuge	убежище
+2104	refund	возвращать деньги
+2105	refusal	отказ
+2106	refuse	мусор
+2107	refuse	отказаться
+2108	refuse to	отказываюсь
+2109	regard	внимание
+2110	register	регистр
+2111	regret	сожалеть
+2112	regret	сожаление
+2113	regret	сожалеем
+2114	reinvent	Reinvent
+2115	reinvent	изобрести
+2116	related	связанные с
+2117	related to	относится к
+2118	relative	относительный
+2119	relativity	относительность
+2120	relax	расслабиться
+2121	release	выпускать
+2122	release	релиз
+2123	release	выпуск
+2124	reliable	надежный
+2125	rely	полагаться
+2126	rely on	полагаться на
+2127	remain	оставаться
+2128	remark	замечание
+2129	remaster	переиздание
+2130	Remember	Помните
+2131	Remember.	Помнить.
+2132	remind	напоминать
+2133	remind of	напоминает о
+2134	reminders	напоминания
+2135	remote	удаленный
+2136	remote	удаленный
+2137	remove	Удалить
+2138	remove clothing	снять одежду
+2139	renew	возобновить
+2140	renovation	ремонт
+2141	rent	арендная плата
+2142	repair	ремонт
+2143	repeat	повторить
+2144	replace	заменять
+2145	replay	воспроизвести
+2146	replay	воспроизвести
+2147	reply	Ответить
+2148	represent	представлять
+2149	requery	запрос
+2150	request	запрос
+2151	require	требовать
+2152	required	требуется
+2153	requirement	требование
+2154	requirement analysis	анализ требований
+2155	rescue	спасать
+2156	research	исследовательская работа
+2157	research	исследование
+2158	resemble	напоминать
+2159	resent	возмущаться
+2160	reservation	бронирование
+2161	reserve	бронировать
+2162	residence	резиденция
+2163	resident	резидент
+2164	residents	жители
+2165	resolution	разрешающая способность
+2166	resolve	разрешить
+2167	resort	курорт
+2168	respect	уважать
+2169	respective	соответствующие
+2170	respectively	соответственно
+2171	respond	отвечать
+2172	response	отклик
+2173	response	ответ
+2174	responsibility	обязанность
+2175	responsible	ответственность
+2176	responsible for	ответственный за
+2177	responsive	отзывчивый
+2178	rest	отдыхать
+2179	rest	отдых
+2180	rest	остальное
+2181	restrict	ограничивать
+2182	restricted	ограниченный
+2183	restrictions	ограничения
+2184	resume	продолжить
+2185	resume	резюме
+2186	retard	тормозить
+2187	retard	запаздывание
+2188	retell	пересказывать
+2189	retire	выходить на пенсию
+2190	retired	на пенсии
+2191	retired	в отставке
+2192	retirement	уход на пенсию
+2193	retract	втягивать
+2194	retrieve	забрать
+2195	return	вернуть
+2196	Reusable	Многоразовый
+2197	reusable	многоразовый
+2198	revenge	месть
+2199	review	рассмотрение
+2200	review	обзор
+2201	revise	исправлять
+2202	revise	сверка
+2203	revive	возродить
+2204	reward	награда
+2205	reward	вознаграждение
+2206	rewrite	переписать
+2207	rich	богатый
+2208	ride	ездить
+2209	ridiculous	смешной
+2210	right	Правильно
+2211	right away	немедленно
+2212	Right away	Немедленно
+2213	ring	кольцо
+2214	ring back	перезвонить
+2215	rinse	смывать
+2216	rip	рвать
+2217	rise	рост
+2218	rise	подъем
+2219	rise	подниматься
+2220	rise up	подниматься
+2221	risky	рискованно
+2222	roast	жареный
+2223	rob	грабить
+2224	robber	грабитель
+2225	rode	ехал
+2226	roll	рулон
+2227	root	корень
+2228	route	маршрут
+2229	routine	рутинный
+2230	rub	тереть
+2231	rub out	стереть
+2232	rubber	резина
+2233	ruin	разорение
+2234	Ruin	Разорение
+2235	rule	правило
+2236	ruler	правитель
+2237	run	бег
+2238	run away	убегать
+2239	run into (натолкнуться)	натолкнуться (натолкнуться)
+2240	run out	закончиться
+2241	Runaway	Убегать
+2242	rush	порыв
+2243	sad	грустный
+2244	sad	печальный
+2245	sadden	опечалить
+2246	sadden	печалить
+2247	sadness	грусть
+2248	safe	сейф
+2249	safely	безопасно
+2250	sail	плыть
+2251	saint	святой
+2252	sake (for the sake of)	ради (ради чего)
+2253	salary	зарплата
+2254	sale	распродажа
+2255	sale (something is for sale)	распродажа (что-то продается)
+2256	salvation	спасение
+2257	sand	песок
+2258	sang	спели
+2259	sank	затонуло
+2260	satisfaction	удовлетворение
+2261	satisfied	доволен
+2262	satisfied with	доволен
+2263	saturate	насыщать
+2264	save up	копить
+2265	say	сказать
+2266	say (say shortly)	скажи (скажи коротко)
+2267	scape	пейзаж
+2268	scare	напугать
+2269	scare	попугать
+2270	scared	напугана
+2271	scared of	боится
+2272	scary	страшно
+2273	scenery	пейзаж
+2274	schedule	расписание
+2275	schedule	график
+2276	scrap	лом
+2277	screa	крик
+2278	scream	крик
+2279	scream	кричать
+2280	screen	экран
+2281	screw	винт
+2282	scrub	скраб
+2283	seafood	морепродукты
+2284	search	поиск
+2285	searching	идет поиск
+2286	searching for	searching for
+2287	second-to-last	предпоследний
+2288	security	безопасность
+2289	seduce	соблазнять
+2290	See	Видеть
+2291	see off	провожать
+2292	seek	искать
+2293	seem	казаться
+2294	Seem	Казаться
+2295	Seem	Кажется
+2296	seem (as it may seem)	казаться (как может показаться)
+2297	seldom	редко
+2298	selfish	эгоистичный
+2299	sell	продавать
+2300	semicolons	точка с запятой
+2301	Semite	Семит
+2302	send	Отправить
+2303	sensation	ощущение
+2304	sense	смысл
+2305	sensitive	чувствительный
+2306	sensitive to	Чувствительный к
+2307	sent	послал
+2308	sentence	приговор
+2309	sentence	предложение
+2310	separate	отдельный
+2311	sequence	последовательность
+2312	sequent	последовательный
+2313	serious	серьезный
+2314	serve	обслуживать
+2315	service	услуга
+2316	set	задавать
+2317	set off	отправляться
+2318	set out (отправиться)	изложить (отправиться)
+2319	setup	настраивать
+2320	several	несколько
+2321	shadow	тень
+2322	shake	встряхнуть
+2323	shake of excess	встряска избытка
+2324	shame	стыд
+2325	shape	форма
+2326	sharp	острый
+2327	sharply	резко
+2328	shave	бриться
+2329	shelf	полка
+2330	shell	оболочка
+2331	shelter	убежище
+2332	ship	корабль
+2333	shocked at	шокирован
+2334	shocked by	в шоке от
+2335	Shoot	Стрелять
+2336	shoot	стрелять
+2337	short	короткая
+2338	short (be short of)	короткий (быть коротким)
+2339	short (have shortage of)	короткий (иметь нехватку)
+2340	short of	если не считать
+2341	shortage of	недостаток
+2342	shorten	укорачивать
+2343	shot	выстрел
+2344	should	должен
+2345	shout	кричать
+2346	shout at	кричать на
+2347	shout to	крикнуть
+2348	show up	объявиться
+2349	shrimp	креветка
+2350	shrink	сокращать
+2351	shrink	сокращаться
+2352	shut	закрыть
+2353	shut down	неисправность
+2354	shut up	замолчи
+2355	shut up.	Замолчи.
+2356	Shut up.	Замолчи.
+2357	shutter	затвор
+2358	shy	застенчивый
+2359	sick	больной
+2360	sight	зрение
+2361	sight (for the first sight)	взгляд (на первый взгляд)
+2362	significant	существенный
+2363	significantly	существенно
+2364	significantly	значительно
+2365	significate	означать
+2366	similar	аналогичный
+2367	similar	похожий
+2368	similar (is similar)	похожий (похожий)
+2369	simple	просто
+2370	simultaneously	одновременно
+2371	sin	грех
+2372	since	поскольку
+2373	sincere	искренний
+2374	siner	грешник
+2375	sing	Sing
+2376	singer	певец
+2377	single	Один
+2378	sink	тонуть
+2379	sink	раковина
+2380	sinner	грешник
+2381	skill	навык
+2382	skillful	умелый
+2383	skin	кожа
+2384	skip	пропускать
+2385	sleep	спать
+2386	slide	горка
+2387	slightly	немного
+2388	sling	строп
+2389	slip	соскальзывать
+2390	slips	промахи
+2391	slope	склон
+2392	slow	медленно
+2393	slow	медленный
+2394	slow down	замедляться
+2395	slow down	замедлять
+2396	slow down	помедленнее
+2397	small	небольшой
+2398	smash	громить
+2399	smell	запах
+2400	Smell	Запах
+2401	smell of	запах
+2402	smells of	пахнет
+2403	smelt	корюшка
+2404	smile	улыбка
+2405	smile at	улыбаться
+2406	smiled at	улыбнулась
+2407	smooth	гладкий; плавный
+2408	smoothly	плавно
+2409	smoothly	гладко
+2410	snake	змея
+2411	snooze	вздремнуть
+2412	snore	храп
+2413	snorkel	шноркель
+2414	snorkeling	подводное плавание
+2415	snouze	вздремнуть
+2416	soak	замочить
+2417	soap	мыло
+2418	socket	разъем
+2419	software	программное обеспечение
+2420	solution	решение
+2421	solution to	решение
+2422	solve	решить
+2423	solve	решать
+2424	solve a problem	решить задачу
+2425	some	некоторые
+2426	some (to some degree)	некоторые (в какой-то степени)
+2427	some (to some extent)	некоторые (в какой-то степени)
+2428	someday	когда-нибудь
+2429	someone	кто то
+2430	son	сын
+2431	sooner or later	рано или поздно
+2432	soul	душа
+2433	Sound	Звук
+2434	soup	суп
+2435	sour	кислый
+2436	sour cream	сметана
+2437	space	Космос
+2438	sparkling	сверкающий
+2439	sparkling water	газированная вода
+2440	speak	говорить
+2441	speak (frankly speaking)	говорить (откровенно говоря)
+2442	speak (friendly speaking)	говорить (дружеская речь)
+2443	speak (shortly speaking)	говорить (кратко говоря)
+2444	speak down	говорить тише
+2445	speak up	высказываться
+2446	speak up (говорить громче)	говорить громче (говорить громче)
+2447	specialize	специализироваться
+2448	specialize in	специализируюсь на
+2449	specified	указанный
+2450	specimen	образец
+2451	speech	речь
+2452	speed up	ускориться
+2453	spell	заклинание
+2454	spelt	пишется
+2455	spend	проводить
+2456	spend on	Тратить на
+2457	spent	потраченный
+2458	spice	специя
+2459	spider	паук
+2460	spin	вращение
+2461	spirit	дух
+2462	spiritually	духовно
+2463	spite	назло
+2464	spite (in spite of)	несмотря (несмотря на)
+2465	split	расколоть
+2466	split	Трещина
+2467	split up	разделить
+2468	spoil	портиться
+2469	spoil	испортить
+2470	spoil	отвал
+2471	spoilt	испорченный
+2472	spoon	ложка
+2473	spot	место
+2474	spray	спрей
+2475	spread	распространение
+2476	spy	шпион
+2477	Square	Квадрат
+2478	square	квадрат
+2479	squid	Кальмар
+2480	staff	персонал
+2481	stage	сцена
+2482	stair	лестница
+2483	stairs	лестница
+2484	stamp	печать
+2485	stand	стоять
+2486	stand up	вставать
+2487	star	звезда
+2488	stare	глазеть
+2489	stare at	уставиться на
+2490	staring at	глядя на
+2491	state	штат
+2492	state	государственный
+2493	statement	заявление
+2494	Steal	красть
+2495	stealth	скрытность
+2496	steam	готовить на пару
+2497	steel	стали
+2498	steep	отвесный
+2499	steer	рулить
+2500	steer	бычок
+2501	steer	управлять
+2502	steering	рулевое управление
+2503	steering wheel	руль
+2504	stellar	звездный
+2505	stemming away	уходя прочь
+2506	step	шаг
+2507	stick	палка
+2508	sticky	липкий
+2509	stiff	жесткий
+2510	still	еще
+2511	stimulate	стимулировать
+2512	sting	ужалить
+2513	stock	снабжать
+2514	stock	склад
+2515	Stole	Украл
+2516	stomach	желудок
+2517	stomp	топать
+2518	storage	место хранения
+2519	store	хранить
+2520	stowage	складывание
+2521	straight	прямой
+2522	straight	Прямо
+2523	stranger	чужой человек
+2524	stranger	незнакомец
+2525	straw	солома
+2526	strawberry	клубника
+2527	stray	бродить
+2528	stream	поток
+2529	strength	сила
+2530	strengthen	укреплять
+2531	strengthen	усилить
+2532	strict	строгий
+2533	strictly	строго
+2534	strike	забастовка
+2535	strike (go on strike)	забастовка (устроить забастовку)
+2536	strike (to be on strike)	забастовка (бастовать)
+2537	string	нить
+2538	stringer	стрингер
+2539	strong	сильный
+2540	struggle	борьба
+2541	stuck	застрявший
+2542	stuffy	душно
+2543	stumble	спотыкаться
+2544	stunningly	потрясающе
+2545	submit	представить
+2546	subscribe	подписываться
+2547	subscribed to	подписался на
+2548	subsequent	последующий
+2549	Substitute	Замена
+2550	subtract	вычесть
+2551	Subtract	Вычесть
+2552	subtraction	вычитание
+2553	succeed	добиться успеха
+2554	succeed in	преуспеть в
+2555	succeed in ...ing	преуспеть в ... ing
+2556	suddenly	вдруг, внезапно
+2557	Suffer	Страдать
+2558	suffer	страдать
+2559	suffer from	страдать от
+2560	suggest	предлагать
+2561	suggest	предложить
+2562	suggestion	предложение
+2563	suit	костюм
+2564	suit	подходить
+2565	suitable	подходящее
+2566	suitable	подходящее
+2567	sum	сумма
+2568	sum (to sum up)	сумма (подводить итоги)
+2569	sunny	солнечно
+2570	sunshade	зонтик
+2571	super	супер
+2572	supervisor	руководитель
+2573	supper	ужин
+2574	supplier	поставщик
+2575	suppliers	поставщики
+2576	supply	поставлять
+2577	supply	поставка
+2578	Suppose	Предполагать
+2579	suppose	предполагать
+2580	Suppose	Предположим
+2581	sure	Конечно
+2582	sure	конечно
+2583	surely	конечно
+2584	surf	серфить
+2585	Surprise	Сюрприз
+2586	surprised	удивлен
+2587	surprised at	удивлен
+2588	surprised by	удивлен
+2589	surround	окружать
+2590	survival	выживание
+2591	survive	выживать
+2592	survive	выжить
+2593	survive	уцелеть
+2594	suspect	подозреваемый
+2595	suspend	приостановить
+2596	suspicious	подозрительно
+2597	suspicious	подозрительный
+2598	swam	плавали
+2599	sware	клятва
+2600	swear	ругаться
+2601	swear	поклясться
+2602	swear	клятва
+2603	swear	клянусь
+2604	sweep	сметать
+2605	sweep	развертка
+2606	sweep	подметать
+2607	sweeping power	потрясающая сила
+2608	sweeping statement	широкое заявление
+2609	swim	плавать
+2610	swing	качать
+2611	switch off	выключить
+2612	switch on	включить
+2613	tagged	помеченный
+2614	tail	хвостик
+2615	tail	хвост
+2616	tailor	портной
+2617	take	брать
+2618	take	взять
+2619	take after	взять после
+2620	take after (быть похожим)	следовать (быть похожим)
+2621	take care	заботиться
+2622	take care of	заботиться о
+2623	take in	принимать
+2624	take it for granted	принимать как должное
+2625	take medication	принимать лекарства
+2626	take off	взлететь
+2627	take off	снять
+2628	take out	выиграть
+2629	take out	выиграть
+2630	Take part	Принимать участие
+2631	Take part	Принять участие
+2632	take pills	Прими таблетки
+2633	Take place	Происходит
+2634	take place	происходит
+2635	take up doing	заняться делом
+2636	take up doing	взяться за дело
+2637	take up to	взяться за
+2638	take up гл.+ing (начать заниматься гл. )	заняться гл.+ing (начать заниматься гл. )
+2639	tale	сказка
+2640	Tale	Сказка
+2641	talk	говорить
+2642	tall	высокий
+2643	tamb	барабан
+2644	tap	нажмите
+2645	task	задача
+2646	taste	вкус
+2647	taught	учил
+2648	tax	налог
+2649	tea	чай
+2650	teach	учат
+2651	tear	рвать
+2652	tears	слезы
+2653	teeth	зубы
+2654	tell a secret	рассказать секрет
+2655	template	шаблон
+2656	temple	храм
+2657	temporarily	временно
+2658	temporary	временный
+2659	tend	склоняться
+2660	tend	иметь тенденцию
+2661	terminate	прекратить
+2662	terrain	местность
+2663	terrible	ужасный
+2664	terrible at	ужасен в
+2665	terribly	ужасно
+2666	than	чем
+2667	thank	благодарить
+2668	thank for	Благодарим за
+2669	thanked for	поблагодарил за
+2670	the only answer	единственный ответ
+2671	the only thing	единственная вещь
+2672	the property	недвижимость
+2673	the recent	недавний
+2674	then	тогда
+2675	thermae	парилки
+2676	thief	вор
+2677	thingamajig	thingamajig
+2678	Think	Считать
+2679	think	считать
+2680	thinkful	задумчивый
+2681	this morning	этим утром
+2682	thoroughly	тщательно
+2683	thoughtful	заботливая
+2684	thread	нить
+2685	threat	угроза
+2686	threaten	угрожать
+2687	threatened	под угрозой
+2688	threw	метала
+2689	thriller	триллер
+2690	through	через
+2691	throw	бросить
+2692	throw	бросать
+2693	throw at	бросить в
+2694	throw away	выбрасывать
+2695	throw away	выбросить
+2696	throw to	бросить в
+2697	tie	галстук
+2698	tight	плотно
+2699	till	до
+2700	time	время
+2701	time (for the time been)	время (по прошествии времени)
+2702	time (from time to time)	время (время от времени)
+2703	time (high time	пора (пора
+2704	timetable	расписание
+2705	tip	Подсказка
+2706	tip	чаевые
+2707	tip	совет
+2708	tire	шина
+2709	tired	усталый
+2710	tired of	устал от
+2711	tolerant	терпимый
+2712	tolerate	терпеть
+2713	tomb	гробница
+2714	tombstone	надгробная плита
+2715	tool	инструмент
+2716	tooth	зуб
+2717	Toothbrush	зубная щетка
+2718	top	вершина
+2719	top (at the top of)	сверху (наверху)
+2720	top deal	лучшая сделка
+2721	top gear	высшая передача
+2722	top up my account	пополнить мой счет
+2723	topple	опрокидывать
+2724	tore	оторвал
+2725	torn	разорванный
+2726	Touch	Трогать
+2727	tough	жесткий
+2728	tournament	турнир
+2729	towards	в направлении
+2730	towards	к
+2731	towel	полотенце
+2732	tower	башня
+2733	trace	след
+2734	traceability	прослеживаемость
+2735	trail	след
+2736	train	поезд
+2737	traitor	предатель
+2738	transfer	перечислить
+2739	transfer	перечислить
+2740	transfer	передача
+2741	trash	мусор
+2742	travel	путешествовать
+2743	tray	лоток
+2744	treat	обращаться
+2745	treat	удовольствие
+2746	treat	относиться
+2747	treatment	лечение
+2748	tremble	дрожать
+2749	tremendous	огромный
+2750	tremendously	чрезвычайно
+2751	trick	трюк
+2752	trolls	тролли
+2753	trouble	беда
+2754	trouble (be in trouble)	беда (быть в беде)
+2755	trousers	брюки
+2756	truck	грузовик
+2757	truncate	обрезать
+2758	trust	доверять
+2759	try	пытаться
+2760	try on	попробуй
+2761	try to	попробуй
+2762	tuna	тунец
+2763	turn down (сделать тише)	выключить (сделать тише)
+2764	turn off	выключать
+2765	turn on	включать
+2766	turn up	поверни
+2767	turn up - гучніще	явиться - гучнище
+2768	turn up (сделай громче)	громче (сделай громче)
+2769	turn up (сделать громче)	громче (сделать громче)
+2770	tutorial	руководство
+2771	twist	крутить
+2772	typewriter	печатная машинка
+2773	typical	типичный
+2774	typical of (me)	типично для (меня)
+2775	ugliest	самый уродливый
+2776	ugly	уродливый
+2777	ultimate	окончательный
+2778	unacceptable	неприемлемый
+2779	unchain	расковать
+2780	unchained	освобожденный
+2781	uncle	дядя
+2782	uncontrollably	бесконтрольно
+2783	uncure	неизлечимый
+2784	under	под
+2785	underestimate	недооценивать
+2786	undergo	пройти
+2787	undergoing	претерпевает
+2788	underline	подчеркивать
+2789	underneath	под
+2790	Understand	Понять
+2791	understand	Понимаю
+2792	understood	понимать
+2793	undertake	предпринять
+2794	undisclosed	нераскрытый
+2795	undo	отменить
+2796	unfairly	несправедливо
+2797	unfamiliar	незнакомый
+2798	unfortunately	к несчастью
+2799	unfortunately	К сожалению
+2800	unite	объединяться
+2801	universal	универсальный
+2802	universe	вселенная
+2803	Universe	Вселенная
+2804	unless	пока не
+2805	unlikely	вряд ли
+2806	unload	разгрузить
+2807	until	до тех пор
+2808	untill	пока
+2809	upcoming	предстоящий
+2810	upload	загрузить
+2811	upset	расстроен
+2812	upstairs	вверх по лестнице
+2813	urgent	срочный
+2814	use	использовать
+2815	use to be	раньше быть
+2816	used	использовал
+2817	used (be used to doing something)	б/у (привык делать что-либо)
+2818	used (be used to doing)	б/у (привыкать делать)
+2819	used (be used to something)	привыкнуть (к чему-либо)
+2820	used (used to do something)	используется (используется для чего-либо)
+2821	used to	привыкший
+2822	used to be	раньше был
+2823	useless	бесполезный
+2824	vague	расплывчатый
+2825	vain	напрасно
+2826	vain (in vain)	напрасно (напрасно)
+2827	valid	действительный
+2828	validation	Проверка
+2829	value	стоимость
+2830	vapor	пар
+2831	various	разные
+2832	various	различный
+2833	vaut	во
+2834	venture	риск
+2835	verifie	проверить
+2836	verified	проверено
+2837	verify	проверять
+2838	vice versa	наоборот
+2839	view	Посмотреть
+2840	vinegar	уксус
+2841	violate	нарушать
+2842	violation	нарушение
+2843	violence	насилие
+2844	violent	жестокий
+2845	violent	насильственный
+2846	viral	популярный
+2847	virgin	девственник
+2848	voice	голос
+2849	vote	голосование
+2850	vote for	голосовать за
+2851	voute	голосовать
+2852	voute for	голосовать за
+2853	waist	Талия
+2854	wait	ждать
+2855	wait for	ждать
+2856	wake	бодрствование
+2857	wake	будить
+2858	wake me up	разбуди меня
+2859	wake up	вставай
+2860	wall	стена
+2861	walnut	грецкий орех
+2862	Want	Хотеть
+2863	war	война
+2864	wardrobe	гардероб
+2865	ware	посуда
+2866	warm	теплый
+2867	warm-up	разогреть
+2868	warn	предупреждать
+2869	warp	деформация
+2870	warp	деформироваться
+2871	wash	стирать
+2872	wash	стирка
+2873	wash up	мыть посуду
+2874	wash up (помыть)	мыть (мыть)
+2875	wast	растрата
+2876	waste	напрасно тратить
+2877	Waste	Напрасно тратить
+2878	waste	трата
+2879	waste	отходы
+2880	waste of	потеря, излишняя трата
+2881	wave	волна
+2882	way	путь
+2883	weak	слабый
+2884	weaken	ослабить
+2885	weakness	слабость
+2886	wealth	богатство
+2887	wealthy	богатый
+2888	wear	носить
+2889	wear	износ
+2890	weather	погода
+2891	web	сеть
+2892	wedding	свадьба
+2893	wedding ring	обручальное кольцо
+2894	week	неделю
+2895	week	неделя
+2896	weigh	весить
+2897	Weigh	Взвешивать
+2898	Weigh	Вес
+2899	welcome	Добро пожаловать
+2900	welder	сварщик
+2901	wellness	здоровье
+2902	wet	мокрый
+2903	wet	влажный
+2904	wheat	пшеница
+2905	whenever	в любое время
+2906	whenever	всякий раз, когда
+2907	whether	будь то
+2908	while	в то время как
+2909	while (for a while)	пока (какое-то время)
+2910	whisper	шепот
+2911	white	белый
+2912	whole	все
+2913	whole (on the whole ...)	в целом (в целом...)
+2914	whole (on the whole)	в целом (в целом)
+2915	why	Зачем
+2916	wicked	безнравственный
+2917	wide	широкий
+2918	widen	расширять
+2919	width	ширина
+2920	wild	дикий
+2921	Will be able.	Сможет.
+2922	will manage.	справится.
+2923	willing (to be willing to do something)	желание (быть готовым сделать что-либо)
+2924	win	выиграть
+2925	wiper	щетка стеклоочистителя
+2926	wire	провод
+2927	wireless	беспроводной
+2928	wiring	проводка
+2929	wisdom	мудрость
+2930	wise	мудрый
+2931	Wish	Желаю
+2932	withdraw	изымать
+2933	Withdraw	Изымать
+2934	Withdrew	Снял
+2935	witness	свидетель
+2936	wizard	волшебник
+2937	woke up	проснулся
+2938	won	выиграл
+2939	wonder	удивляться
+2940	wonder	задаваться вопросом
+2941	wool	шерсть
+2942	word boundary	граница слова
+2943	wore	носил
+2944	work on	работа над
+2945	worries	заботы
+2946	worry	беспокоиться
+2947	worse	худший
+2948	worse	хуже
+2949	worse worth	хуже стоит
+2950	worsen	ухудшать
+2951	worst	наихудший
+2952	worth	стоимость
+2953	worth	стоящий
+2954	worth	ценность
+2955	worth (doing)	Стоит делать)
+2956	worth (something is worth doing)	стоит (что-то стоит сделать)
+2957	worthy	достойный
+2958	would (I would prefer to do it)	было бы (я предпочел бы это сделать)
+2959	would (I would rather to do it)	бы (я предпочел бы это сделать)
+2960	would (I would sooner to do it)	бы (я бы скорее это сделал)
+2961	wound	ранить
+2962	wounded	ранен
+2963	wrap	сворачивать
+2964	wrap	заворачивать
+2965	wrap up	заворачивать
+2966	wrapp	обертка
+2967	wrapper	обертка
+2968	write	записывать
+2969	write (it) down	запиши это
+2970	write (pronouns) down	запишите (местоимения) вниз
+2971	write down	записывать
+2972	write down (anything)	записать (что-либо)
+2973	yet	пока что
+2974	zipper	молния
